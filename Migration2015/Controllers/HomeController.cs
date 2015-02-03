@@ -24,7 +24,7 @@ namespace Migration2015.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Ahmed Ilyas";
 
             return View();
         }
